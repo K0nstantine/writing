@@ -1,1 +1,1 @@
-A repository for the writing staff. I'm not a writer.
+A repository for writing. I'm not a writer.
